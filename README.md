@@ -30,4 +30,3 @@ Place |Team or User | Public Score | Private Score | Summary of Model
 
 #### [Interview with winners](http://drivendata.co/blog//)
 
-#### Benchmark Blog Post: ["Benchmark - Predicting Poverty"](http://drivendata.co/blog/worldbank-poverty-benchmark/)
